@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478350842153",
+    "project_id": "weddingdatabase-e89c3",
+    "storage_bucket": "weddingdatabase-e89c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478350842153:android:61af56055fb14681f33f38",
+        "android_client_info": {
+          "package_name": "com.example.weddingplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478350842153-fupimrnmtkqaapqbqioeadngui1n1rrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzybun7msWPCJ-4TuCJTrLFDzlEWS7prI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478350842153-fupimrnmtkqaapqbqioeadngui1n1rrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
