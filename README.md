@@ -19,4 +19,11 @@ Firebase Authentication: Manages user authentication.
 Firebase Realtime Database: Stores guest information and attendance data.
 Google Maps API: Enables venue navigation.
 
+SCREENSHOTS
+
+![Screenshot](Images/1.png)
+
+![Screenshot](Images/2.png)
+
+![Screenshot](Images/2.png)
 
