@@ -21,9 +21,9 @@ Google Maps API: Enables venue navigation.
 
 SCREENSHOTS
 
-![Screenshot](Images/1.png)
+![Screenshot](Images/1.jpg)
 
-![Screenshot](Images/2.png)
+![Screenshot](Images/2.jpg)
 
-![Screenshot](Images/2.png)
+![Screenshot](Images/2.jpg)
 
