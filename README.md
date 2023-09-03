@@ -25,5 +25,5 @@ SCREENSHOTS
 
 ![Screenshot](Images/2.jpg)
 
-![Screenshot](Images/2.jpg)
+![Screenshot](Images/3.jpg)
 
